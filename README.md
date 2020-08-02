@@ -1,2 +1,0 @@
-# MVCWebAppDotNetCore
-MVCWebAppDotNetCore
