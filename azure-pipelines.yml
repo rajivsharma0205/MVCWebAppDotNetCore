@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 pool:
-  vmImage: 'Windows Server 2019 Datacenter'
+  vmImage: 'latest'
 
 variables:
   buildConfiguration: 'Release'
