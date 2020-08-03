@@ -2,9 +2,7 @@ trigger:
 - '*'
 
 pool:
-  vmImage: 'ubuntu-18.04'
-  demands:
-  - npm
+  vmImage: 'Windows Server 2019 Datacenter'
 
 variables:
   buildConfiguration: 'Release'
